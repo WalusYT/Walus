@@ -12,7 +12,7 @@ const mouse = {
   y: innerHeight / 2
 }
 
-const colors = ['#2185C5', '#7ECEFD', '#FFF6E5', '#FF7F66']
+const colors = ['#0d6efd', '#6f42c1', '#Ffd803', '#e45858']
 
 
 addEventListener('resize', () => {
